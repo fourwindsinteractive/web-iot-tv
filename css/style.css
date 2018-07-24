@@ -1,0 +1,38 @@
+*
+{
+    font-family: Lucida Sans, Arial, Helvetica, sans-serif;
+}
+
+body
+{
+    background-color: #434343;
+    margin: 50px auto;
+}
+
+h1
+{
+    color: #7FBCB2;
+    font-size: 64px;
+    font-style: italic;
+    margin: 0 10px;
+}
+
+#CONSOLE
+{
+    background-color: #000000;
+    color: #ffffff;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 32px;
+    height:800px;
+    margin: 10px 10px;
+    overflow: auto;
+    padding:0 10px;
+    width:900px;
+}
+
+#STATUS
+{
+    color: #73A8C6;
+    font-size: 32px;
+    margin: 20px 10px;
+}

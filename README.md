@@ -6,10 +6,10 @@
 
 https://wiki.tizen.org/SDK
 https://www.tizen.org/blogs
+https://developer.tizen.org/development/tizen-studio/download
 https://developer.tizen.org/development/tizen-studio/native-tools/cli
-https://developer.tizen.org/development/api-references/web-application
-https://developer.tizen.org/development/api-references/web-application?redirect=https://developer.tizen.org/dev-guide/4.0.0/org.tizen.web.apireference/html/device_api/tv/index.html
 https://developer.tizen.org/development/tizen-studio/web-tools/running-and-testing-your-app/sdb
+https://developer.tizen.org/development/api-references/web-application
 
 ### Samsung
 
